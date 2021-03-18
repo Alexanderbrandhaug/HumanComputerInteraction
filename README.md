@@ -8,3 +8,6 @@ Introduction to important concepts, methods and techniques related to human-comp
 
 Skills:
 The student learns to master methods and techniques for design of user interfaces with high usability.
+
+
+Prototype was made in Figma. 
